@@ -20,9 +20,11 @@ My approach was divided into two main phases:
 - I then sent autonomous navigation commands by setting a "Nav2 Goal", which the robot successfully navigated to while avoiding obstacles.
 
 
+
 ## Result
 
-- **Screenshot of Navigation:**
-  ![Navigation in RViz](media/rviz_navigation_screenshot.png)
-
 # **Demonstration Video:** [Link to Autonomous Navigation Video](https://youtu.be/i6iE2h0CH6g)
+
+
+## **Screenshot of Navigation:** [Link to Screenshots] (https://github.com/pyandcpp-coder/MyEq-A1/tree/main/media)
+ 
